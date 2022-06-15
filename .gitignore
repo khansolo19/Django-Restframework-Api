@@ -157,4 +157,4 @@ cython_debug/
 idea/
 /idea/
 media
-/static
+static/
