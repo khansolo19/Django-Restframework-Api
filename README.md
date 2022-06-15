@@ -2,4 +2,4 @@
 Online django_restframework IT Courses
 
 ## Deployed
-`Deployed on https://ittanic.herokuapp.com/swagger/` </br>
+`Deployed on ` https://ittanic.herokuapp.com/swagger/ </br>
